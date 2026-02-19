@@ -1,1 +1,1 @@
-# git-course Demo
+# Git Course Demo
