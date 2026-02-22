@@ -1,2 +1,3 @@
 add and reove users
 change the roles
+manage the database 
